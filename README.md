@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leoshi01
+- 👋 Hi, I’m Yuxi@leoshi01
 - 👀 I’m interested in python web /AI
 - 🌱 I’m currently learning Devops/AWS etc
 - 💞️ I’m looking to collaborate on AWS,Google,FB etc
