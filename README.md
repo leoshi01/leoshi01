@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Devops/AWS etc
 - 💞️ I’m looking to collaborate on AWS,Google,FB etc
 - 📫 How to reach me 
-you can contact with my Website: www.shiyuxi.org hh
+you can contact with website: www.shiyuxi.org hh
 
 <!---
 leoshi01/leoshi01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
